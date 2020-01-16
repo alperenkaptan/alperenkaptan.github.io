@@ -299,10 +299,6 @@ p {
   font-size: 13px;
 }
 
-/* .footer .fa-heart {
-  color: #fb866a;
-} */
-
 @media (max-width: 767.98px) {
   .sidebar-wrapper {
     position: static;
